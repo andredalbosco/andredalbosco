@@ -1,8 +1,9 @@
 ## Interests
 
 - Computer Graphics
-- Deep Learning
 - Computer Systems
+- Deep Learning
+- Reinforcement Learning
 
 ---
 
